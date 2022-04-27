@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to implement “Implicit Intents”.
-Developed by: B.Kavya
-Registeration Number : 212220230007
+Developed by: Swetha.K.P
+Registeration Number : 212220230053
 */
 ```
 #### MainActivity.java
